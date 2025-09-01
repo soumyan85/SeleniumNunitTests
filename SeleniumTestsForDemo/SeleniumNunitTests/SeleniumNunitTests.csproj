@@ -29,4 +29,9 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Setup\" />
+    <Folder Include="Helper\" />
+  </ItemGroup>
+
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumNunitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b8fb46c50c660046de75eeb9d5bf46b642a81b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumNunitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumNunitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
