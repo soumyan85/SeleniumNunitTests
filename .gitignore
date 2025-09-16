@@ -5,3 +5,6 @@
 /.vs
 /SeleniumTestsForDemo/.vs/SeleniumTestsForDemo
 /SeleniumTestsForDemo/.vs/ProjectEvaluation
+/RestSharpTesting/.vs/RestSharpTesting
+/SeleniumTestsForDemo/SeleniumNunitTests/obj/Debug/net9.0/SeleniumNunitTests.AssemblyInfoInputs.cache
+/SeleniumTestsForDemo/SeleniumNunitTests/obj/Debug/net9.0/SeleniumNunitTests.AssemblyInfo.cs
